@@ -1,0 +1,17 @@
+{
+  "name": "nodmail",
+  "version": "1.0.0",
+  "description": "This is a simple web application built with Express.js and Nodemailer. It provides a form where users can input email details (from, to, subject, and body) and send an email by submitting the form.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13"
+  }
+}
